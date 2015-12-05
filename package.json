@@ -1,0 +1,11 @@
+{
+  "name": "macros.js",
+  "version": "0.0.1",
+  "author": "rick lee",
+  "dependencies": {
+    "selenium-webdriver": "2.46.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
